@@ -1,0 +1,19 @@
+{
+  "name": "clima_app",
+  "version": "1.0.0",
+  "description": "APP para saber el clima.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremybravo/clima_app.git"
+  },
+  "author": "Jeremy Bravo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremybravo/clima_app/issues"
+  },
+  "homepage": "https://github.com/jeremybravo/clima_app#readme"
+}
